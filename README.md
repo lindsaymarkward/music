@@ -1,5 +1,3 @@
-# ACC Music Evening September 2018
-
 ### ACC Combined Band
 
 - Happy Day 

@@ -15,16 +15,14 @@
 <!-- HEADER -->
 <div id="header_wrap" class="outer">
     <header class="inner">
-        <img src="../assets/acc-header-logo.svg" alt="Annandale Christian College logo">
-
-        <h1 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h1>
-
+        <h1 id="project_title">{{ site.description | default: site.github.project_tagline }}</h1>
     </header>
 </div>
 
 <!-- MAIN CONTENT -->
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
+        <img id="logo" src="assets/images/acc-header-logo.svg" alt="Annandale Christian College logo">
         {{ content }}
     </section>
 </div>
@@ -33,7 +31,7 @@
 <div id="footer_wrap" class="outer">
     <footer class="inner">
         {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.tagline | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p class="copyright">Thank you for enjoying music at Annandale Christian College</p>
         {% endif %}
     </footer>
 </div>

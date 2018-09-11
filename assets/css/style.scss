@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+ul {
+  margin-left: 20px;
+  margin-bottom: 40px;
+  font-size: 18px;
+}
+#logo {
+  float: right;
+}
