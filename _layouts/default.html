@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     {% seo %}
 </head>
@@ -15,14 +16,14 @@
 <!-- HEADER -->
 <div id="header_wrap" class="outer">
     <header class="inner">
-        <h1 id="project_title">{{ site.description | default: site.github.project_tagline }}</h1>
+        <h1 id="project_title">Instrumental Music Evening 2018 <i class='fa fa-music'></i></h1>
     </header>
 </div>
 
 <!-- MAIN CONTENT -->
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
-        <img id="logo" src="assets/images/acc-header-logo.svg" alt="Annandale Christian College logo">
+        <img id="logo" src="assets/images/acc-header-logo.svg" alt="Annandale Christian College logo"><br>
         {{ content }}
     </section>
 </div>
@@ -31,7 +32,7 @@
 <div id="footer_wrap" class="outer">
     <footer class="inner">
         {% if site.github.is_project_page %}
-        <p class="copyright">Thank you for enjoying music at Annandale Christian College</p>
+        <p class="copyright">Thank you for enjoying music at Annandale Christian College <i class='fa fa-music'></i></p>
         {% endif %}
     </footer>
 </div>
