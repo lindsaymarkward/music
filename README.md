@@ -1,4 +1,4 @@
-### ACC Combined Band
+### ![bass_drum](assets/images/bass_drum.png) ACC Combined Band
 
 - Happy Day 
 - My Lighthouse 
@@ -6,41 +6,41 @@
 - This is Amazing Grace 
 - Whatever it Takes 
 
-### Caroline & Isabelle Walton & Miss Monika (piano)
+### ![piano](assets/images/piano.png) Caroline & Isabelle Walton & Miss Monika (piano)
 
 - Unsolved Mystery
 
-### Philip Haig (banjo) & Mr Sparrow (guitar)
+### ![banjo](assets/images/banjo.png) Philip Haig (banjo) & Mr Sparrow (guitar)
 
 - Banjo Wars
 
-### Caylem Smith (electric guitar)
+### ![electric_guitar](assets/images/electric_guitar.png) Caylem Smith (electric guitar)
 
 - Sweet Child O' Mine
 
-### Jordan Smith (bass guitar)
+### ![electric_guitar](assets/images/electric_guitar.png)  Jordan Smith (bass guitar)
 
 - Amazing Grace
 
-### Judah Ward (piano)
+### ![piano](assets/images/piano.png) Judah Ward (piano)
 
 - Animal Chit-Chat
 
-### Logan Richmond (acoustic guitar)
+### ![guitar](assets/images/guitar.png)  Logan Richmond (acoustic guitar)
 
 - Tears in Heaven
 
-### Penny Haig (mandolin)
+### ![banjo](assets/images/banjo.png) Penny Haig (mandolin)
 
 - Liberty
 
-### ACC String Ensemble
+### ![cello](assets/images/cello.png) ACC String Ensemble
 
 - Erin Shore / Wind that Shakes the Barley
 - Mary, Young and Fair
 - Pastorale from Christmas Concerto - Corelli
 - A Little Summer Music - Vivaldi
 
-### Everyone - Finale!
+### ![tambourine](assets/images/tambourine.png) Everyone - Finale!
 
 - Walk on the Water
