@@ -33,8 +33,9 @@
 
 ### ![guitar](assets/images/guitar.png) Naomi Abraham (guitar)
 
+- Unknown
 
-### ![cello](assets/images/cello.png) ACC String Quartet
+### ![cello](assets/images/cello.png) ACC String Ensemble
 
 - Frere Jacques
 - The Chase
