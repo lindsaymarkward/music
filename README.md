@@ -1,46 +1,45 @@
-### ![bass_drum](assets/images/bass_drum.png) ACC Combined Band
+### ![cello](assets/images/cello.png) ACC String Quartet
 
-- Happy Day 
-- My Lighthouse 
-- 10,000 Reasons
-- This is Amazing Grace 
-- Whatever it Takes 
+- A movement from Bach’s Brandenburg Concerto No 3
+- A movement from Kabalevsky’s Piano Sonata 
 
-### ![piano](assets/images/piano.png) Caroline & Isabelle Walton & Miss Monika (piano)
+### ![piano](assets/images/piano.png) Mikiele Ward (piano)
 
-- Unsolved Mystery
+- Dixieland Jam
 
-### ![banjo](assets/images/banjo.png) Philip Haig (banjo) & Mr Sparrow (guitar)
+### ![cello](assets/images/cello.png) Joshua Ly (violin) Karen Ly (piano)
 
-- Banjo Wars
+- Click Go the Shears
 
-### ![electric_guitar](assets/images/electric_guitar.png) Caylem Smith (electric guitar)
+### ![piano](assets/images/piano.png) Abigail Ly (piano)
 
-- Sweet Child O' Mine
-
-### ![electric_guitar](assets/images/electric_guitar.png)  Jordan Smith (bass guitar)
-
-- Amazing Grace
+- Jurassic Park
 
 ### ![piano](assets/images/piano.png) Judah Ward (piano)
 
-- Animal Chit-Chat
+- Inspector Gadget 
 
-### ![guitar](assets/images/guitar.png)  Logan Richmond (acoustic guitar)
+### ![piano](assets/images/piano.png) Loc Nguyen (piano)
 
-- Tears in Heaven
+- What a Wonderful World
 
-### ![banjo](assets/images/banjo.png) Penny Haig (mandolin)
+### ![guitar](assets/images/guitar.png) Matthew Mandy (guitar)
 
-- Liberty
+- 7 Rings
 
-### ![cello](assets/images/cello.png) ACC String Ensemble
+### ![piano](assets/images/piano.png) Gabriel Waters (piano)
 
-- Erin Shore / Wind that Shakes the Barley
-- Mary, Young and Fair
-- Pastorale from Christmas Concerto - Corelli
-- A Little Summer Music - Vivaldi
+- Medley
 
-### ![tambourine](assets/images/tambourine.png) Everyone - Finale!
+### ![guitar](assets/images/guitar.png) Naomi Abraham (guitar)
 
-- Walk on the Water
+
+### ![cello](assets/images/cello.png) ACC String Quartet
+
+- Frere Jacques
+- The Chase
+- March of the Astronauts
+
+### ![electric_guitar](assets/images/electric_guitar.png) Family Portrait
+
+- Sweet Child O' Mine
