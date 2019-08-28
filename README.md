@@ -21,7 +21,7 @@
 
 ### ![piano](assets/images/piano.png) Loc Nguyen (piano)
 
-- What a Wonderful World
+- Wonderful World
 
 ### ![guitar](assets/images/guitar.png) Matthew Mandy (guitar)
 
